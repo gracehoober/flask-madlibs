@@ -50,3 +50,7 @@ excited_story = Story(
     ["noun", "verb"],
     """OMG!! OMG!! I love to {verb} a {noun}!"""
 )
+
+# answers = {"place": "Iowa", "noun": "cat",
+#            "verb": "jump", "adjective": "fantastic",
+#            "plural_noun": "otters"}
